@@ -24,14 +24,14 @@ a+u 2012 年 8 月号 pp.30-33 に掲載されているが、情報は少ない�
 ## トレース
 
 以下の動画を参考に図面から subD を作成する。
-[!['altテキスト'](./doc/images/thumbnail.png)](https://youtu.be/u1xy5t32PKc?si=ooEEPd9jbp3hnPQe)
+[!['altテキスト'](./docs/images/thumbnail.png)](https://youtu.be/u1xy5t32PKc?si=ooEEPd9jbp3hnPQe)
 
 ## 成果物
 
 - [x] 3D プリンター用 GCODE`./3dmodel/AKGO_roof_1.1000_raft.gcode`
 - [x] 3D モデルファイル`./3dmodel/roof_n_wall_1.1000.stl`
 - [x] Rhinoceros ファイル`./rhino/LondonAquaticsCentre.3dm`
-- [x] [アニメーション](https://otaka44.github.io/rhino-subd-01-page/)
+- [x] [作成したモデルのターンテーブルアニメーション](https://otaka44.github.io/rhino-subd-01/)
 
 [^1]: https://architizer.com/projects/london-aquatics-centre/
 [^2]: https://www.zaha-hadid.com/architecture/london-aquatics-centre/
